@@ -1,0 +1,9 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.log
+
+# Ignore uploaded images (optional, if you don't want to push test images)
+uploads/
